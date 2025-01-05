@@ -1,0 +1,5 @@
+h 0
+hassan 20
+haisam 40
+a 140
+Haisam 0
